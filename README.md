@@ -2,4 +2,4 @@
 
 All the plugins I've made for Enmity.
 
-https://nabdev.tk/plugins
+https://nabdev.me/plugins
